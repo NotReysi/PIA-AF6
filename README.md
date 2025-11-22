@@ -1,4 +1,4 @@
-Actividad Fundamental N.º 6 – Implementación de un Modelo Supervisado en Python
+# Actividad Fundamental N.º 6 – Implementación de un Modelo Supervisado en Python
 
 >En este repositorio se muestra el proceso que pasamos para realizar la Actividad Fundamental 6 para la materia Programación para Inteligencia Artificial.
 
